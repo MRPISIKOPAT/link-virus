@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 # copyrihgt by MR_PISIKOPAT
+#jangan di record bang :)
 
 # variabel
 e=echo
